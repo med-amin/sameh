@@ -1,0 +1,307 @@
+2019-09-04 13:34:41 TASK ID: 0 - PID: 728 - RAM: 27.46MB - 1 Scrapes activated
+2019-09-04 13:34:41 TASK ID: 0 - PID: 728 - RAM: 27.48MB - 1 Website Name: Store
+Wordpress URL: http://store.com
+Site URL: http://store.com
+Wordpress Version: 5.2.2
+Multisite: no
+Theme: Divi
+PHP Version: 7.3.4-2
+PHP Extensions: ["Core","date","libxml","openssl","pcre","zlib","filter","hash","Reflection","SPL","session","sodium","standard","apache2handler","mysqlnd","PDO","xml","calendar","ctype","curl","dom","mbstring","fileinfo","ftp","gd","gettext","iconv","intl","json","exif","memcache","mysqli","pdo_mysql","pdo_pgsql","pdo_sqlite","pgsql","Phar","posix","readline","shmop","SimpleXML","sockets","sqlite3","sysvmsg","sysvsem","sysvshm","tokenizer","wddx","xmlreader","xmlwriter","xsl","zip","Zend OPcache"]
+MySQL Version: 5.5.5
+Server Info: Apache/2.4.38 (Debian)
+WP Memory Limit: 40M
+WP Admin Memory Limit: 256M
+PHP Memory Limit: 256M
+Wordpress Plugins: {"akismet\/akismet.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Akismet Anti-Spam","PluginURI":"https:\/\/akismet.com\/","Version":"4.1.2","Description":"Used by millions, Akismet is quite possibly the best way in the world to <strong>protect your blog from spam<\/strong>. It keeps your site protected even while you sleep. To get started: activate the Akismet plugin and then go to your Akismet Settings page to set up your API key.","Author":"Automattic","AuthorURI":"https:\/\/automattic.com\/wordpress-plugins\/","TextDomain":"akismet","DomainPath":"","Network":false,"Title":"Akismet Anti-Spam","AuthorName":"Automattic"},"boxtal-connect\/boxtal-connect.php":{"WC requires at least":"2.6.14","WC tested up to":"3.5.7","Woo":"","Name":"Boxtal Connect","PluginURI":"","Version":"1.2.0","Description":"Managing your shipments becomes easier with our free plugin Boxtal! Save time and enjoy negotiated rates with 15 carriers: Colissimo, Mondial Relay...","Author":"API Boxtal","AuthorURI":"https:\/\/www.boxtal.com","TextDomain":"boxtal-connect","DomainPath":"\/Boxtal\/BoxtalConnectWoocommerce\/translation","Network":false,"Title":"Boxtal Connect","AuthorName":"API Boxtal"},"builder-woocommerce\/init.php":{"WC requires at least":"","WC tested up to":"current","Woo":"","Name":"Builder WooCommerce","PluginURI":"https:\/\/themify.me\/addons\/woocommerce","Version":"1.3.1","Description":"Show WooCommerce products anywhere with the Builder. It requires to use with the latest version of any Themify theme or the Themify Builder plugin.","Author":"Themify","AuthorURI":"https:\/\/themify.me","TextDomain":"builder-wc","DomainPath":"\/languages","Network":false,"Title":"Builder WooCommerce","AuthorName":"Themify"},"catch-gallery\/catch-gallery.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Catch Gallery","PluginURI":"https:\/\/catchplugins.com\/plugins\/catch-gallery\/","Version":"1.3","Description":"Catch Gallery allows you to add three different types of layouts (in addition to the default layout provided by WordPress \u2013 Thumbnail Grid) for your galleries to stand out\u2014Tiled Mosaic, Square Tiles, Circles.","Author":"Catch Plugins","AuthorURI":"catchplugins.com","TextDomain":"catch-gallery","DomainPath":"\/languages","Network":false,"Title":"Catch Gallery","AuthorName":"Catch Plugins"},"catch-ids\/catch-ids.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Catch IDs","PluginURI":"https:\/\/catchplugins.com\/plugins\/catch-ids\/","Version":"1.8","Description":"Catch IDs is a simple and light weight plugin to show the Post ID, Page ID, Media ID, Links ID, Category ID, Tag ID and User ID in the Admin Section Table. This plugin was initially develop to support our themes features slider. Then we thought that this will be helpful to all the WordPress Admin Users. Just activate and catch IDs in your page, post, category, tag and media pages.","Author":"Catch Plugins","AuthorURI":"catchplugins.com","TextDomain":"catch-ids","DomainPath":"\/languages","Network":false,"Title":"Catch IDs","AuthorName":"Catch Plugins"},"catch-infinite-scroll\/catch-infinite-scroll.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Catch Infinite Scroll","PluginURI":"catchplugins.com\/plugins\/catch-infinite-scroll","Version":"1.4","Description":"Catch Infinite Scroll is a WordPress plugin that allows you to add the magic of infinite scrolling with several customization options on your website without affecting your wallet.","Author":"Catch Plugins","AuthorURI":"catchplugins.com","TextDomain":"catch-infinite-scroll","DomainPath":"\/languages","Network":false,"Title":"Catch Infinite Scroll","AuthorName":"Catch Plugins"},"catch-web-tools\/functions.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Catch Web Tools","PluginURI":"https:\/\/catchplugins.com\/plugins\/catch-web-tools\/","Version":"2.2","Description":"Catch Web Tools is a modular plugin that powers up your WordPress site with simple and utilitarian features. It currently offers Webmaster Tool, Open Graph, Custom CSS, Social Icons, Security, Updator and Basic SEO optimization modules with more addition in updates to come.","Author":"Catch Plugins","AuthorURI":"https:\/\/catchplugins.com\/","TextDomain":"catch-web-tools","DomainPath":"\/catch-web-tools\/","Network":false,"Title":"Catch Web Tools","AuthorName":"Catch Plugins"},"duplicator\/duplicator.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Duplicator","PluginURI":"https:\/\/snapcreek.com\/duplicator\/duplicator-free\/","Version":"1.3.20","Description":"Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.","Author":"Snap Creek","AuthorURI":"http:\/\/www.snapcreek.com\/duplicator\/","TextDomain":"duplicator","DomainPath":"","Network":false,"Title":"Duplicator","AuthorName":"Snap Creek"},"essential-content-types\/essential-content-types.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Essential Content Types","PluginURI":"https:\/\/catchplugins.com\/plugins\/essential-content-types\/","Version":"1.6","Description":"Essential Content Types allows you to feature the impressive content through different content\/post types on your website just the way you want it. These content\/post types are missed by the themes in WordPress Theme Directory as the feature falls more towards the plugins\u2019 territory.","Author":"Catch Plugins","AuthorURI":"https:\/\/catchplugins.com","TextDomain":"essential-content-types","DomainPath":"\/languages","Network":false,"Title":"Essential Content Types","AuthorName":"Catch Plugins"},"essential-widgets\/essential-widgets.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Essential Widgets","PluginURI":"https:\/\/catchplugins.com\/plugins\/essential-widgets\/","Version":"1.5","Description":"Essential Widgets is a WordPress plugin for widgets that allows you to create and add amazing widgets with high customization option on your website without affecting your wallet.","Author":"Catch Plugins","AuthorURI":"https:\/\/catchplugins.com\/","TextDomain":"essential-widgets","DomainPath":"\/languages","Network":false,"Title":"Essential Widgets","AuthorName":"Catch Plugins"},"facebook-for-woocommerce\/facebook-for-woocommerce.php":{"WC requires at least":"3.0.0","WC tested up to":"3.3.5","Woo":"2127297:0ea4fe4c2d7ca6338f8a322fb3e4e187","Name":"Facebook for WooCommerce","PluginURI":"https:\/\/github.com\/facebookincubator\/facebook-for-woocommerce\/","Version":"1.9.15","Description":"Grow your business on Facebook! Use this official plugin to help sell more of your products using Facebook. After completing the setup, you'll be ready to create ads that promote your products and you can also create a shop section on your Page where customers can browse your products on Facebook.","Author":"Facebook","AuthorURI":"https:\/\/www.facebook.com\/","TextDomain":"facebook-for-woocommerce","DomainPath":"","Network":false,"Title":"Facebook for WooCommerce","AuthorName":"Facebook"},"hello.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Hello Dolly","PluginURI":"http:\/\/wordpress.org\/plugins\/hello-dolly\/","Version":"1.7.2","Description":"This is not just a plugin, it symbolizes the hope and enthusiasm of an entire generation summed up in two words sung most famously by Louis Armstrong: Hello, Dolly. When activated you will randomly see a lyric from <cite>Hello, Dolly<\/cite> in the upper right of your admin screen on every page.","Author":"Matt Mullenweg","AuthorURI":"http:\/\/ma.tt\/","TextDomain":"","DomainPath":"","Network":false,"Title":"Hello Dolly","AuthorName":"Matt Mullenweg"},"import-products\/import-products.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Import products","PluginURI":"#","Version":"1.0.0","Description":"desc","Author":"Sameh","AuthorURI":"#","TextDomain":"import-products","DomainPath":"","Network":false,"Title":"Import products","AuthorName":"Sameh"},"jetpack\/jetpack.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Jetpack by WordPress.com","PluginURI":"https:\/\/jetpack.com","Version":"7.6","Description":"Bring the power of the WordPress.com cloud to your self-hosted WordPress. Jetpack enables you to connect your blog to a WordPress.com account to use the powerful features normally only available to WordPress.com users.","Author":"Automattic","AuthorURI":"https:\/\/jetpack.com","TextDomain":"jetpack","DomainPath":"\/languages\/","Network":false,"Title":"Jetpack by WordPress.com","AuthorName":"Automattic"},"mailchimp-for-woocommerce\/mailchimp-woocommerce.php":{"WC requires at least":"3.5","WC tested up to":"3.6.5","Woo":"","Name":"Mailchimp for WooCommerce","PluginURI":"https:\/\/mailchimp.com\/connect-your-store\/","Version":"2.2.2","Description":"Connects WooCommerce to Mailchimp to sync your store data, send targeted campaigns to your customers, and sell more stuff.","Author":"Mailchimp","AuthorURI":"https:\/\/mailchimp.com","TextDomain":"mc-woocommerce","DomainPath":"\/languages","Network":false,"Title":"Mailchimp for WooCommerce","AuthorName":"Mailchimp"},"ol_scrapes\/ol_scrapes.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Octolooks Scrapes |  VestaThemes.com","PluginURI":"","Version":"2.0.0","Description":"Copy content from websites into WordPress automatically.","Author":"Octolooks","AuthorURI":"http:\/\/octolooks.com","TextDomain":"ol-scrapes","DomainPath":"\/languages","Network":false,"Title":"Octolooks Scrapes |  VestaThemes.com","AuthorName":"Octolooks"},"really-simple-ssl\/rlrsssl-really-simple-ssl.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Really Simple SSL","PluginURI":"https:\/\/www.really-simple-ssl.com","Version":"3.2.5","Description":"Lightweight plugin without any setup to make your site SSL proof","Author":"Rogier Lankhorst, Mark Wolters","AuthorURI":"https:\/\/really-simple-plugins.com","TextDomain":"really-simple-ssl","DomainPath":"\/languages","Network":false,"Title":"Really Simple SSL","AuthorName":"Rogier Lankhorst, Mark Wolters"},"catch-instagram-feed-gallery-widget\/catch-instagram-feed-gallery-widget.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"Social Gallery and Widget","PluginURI":"wordpress.org\/plugins\/catch-instagram-feed-gallery-widget","Version":"1.9","Description":"Social Gallery and Widget Plugin is a simple solution to display your Instagram feed directly onto your website either using a widget or shortcode. You can also show your Instagram feeds in a post or page as well.","Author":"Catch Plugins","AuthorURI":"catchplugins.com","TextDomain":"catch-instagram-feed-gallery-widget","DomainPath":"\/languages","Network":false,"Title":"Social Gallery and Widget","AuthorName":"Catch Plugins"},"themegrill-demo-importer\/themegrill-demo-importer.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"ThemeGrill Demo Importer","PluginURI":"https:\/\/themegrill.com\/demo-importer\/","Version":"1.5.9","Description":"Import ThemeGrill official themes demo content, widgets and theme settings with just one click.","Author":"ThemeGrill","AuthorURI":"https:\/\/themegrill.com","TextDomain":"themegrill-demo-importer","DomainPath":"\/languages\/","Network":false,"Title":"ThemeGrill Demo Importer","AuthorName":"ThemeGrill"},"tinymce-advanced\/tinymce-advanced.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"TinyMCE Advanced","PluginURI":"http:\/\/www.laptoptips.ca\/projects\/tinymce-advanced\/","Version":"5.2.1","Description":"Enables advanced features and plugins in TinyMCE, the visual editor in WordPress.","Author":"Andrew Ozz","AuthorURI":"http:\/\/www.laptoptips.ca\/","TextDomain":"tinymce-advanced","DomainPath":"","Network":false,"Title":"TinyMCE Advanced","AuthorName":"Andrew Ozz"},"to-top\/to-top.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"To Top","PluginURI":"https:\/\/catchplugins.com\/plugins\/to-top\/","Version":"1.9","Description":"To Top plugin allows the visitor as well as admin to easily scroll back to the top of the page, with fully customizable options and ability to use image.","Author":"Catch Plugins","AuthorURI":"https:\/\/catchplugins.com\/","TextDomain":"to-top","DomainPath":"languages","Network":false,"Title":"To Top","AuthorName":"Catch Plugins"},"woocommerce\/woocommerce.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"WooCommerce","PluginURI":"https:\/\/woocommerce.com\/","Version":"3.7.0","Description":"An eCommerce toolkit that helps you sell anything. Beautifully.","Author":"Automattic","AuthorURI":"https:\/\/woocommerce.com","TextDomain":"woocommerce","DomainPath":"\/i18n\/languages\/","Network":false,"Title":"WooCommerce","AuthorName":"Automattic"},"woocommerce-admin\/woocommerce-admin.php":{"WC requires at least":"3.6.0","WC tested up to":"3.7.0","Woo":"","Name":"WooCommerce Admin","PluginURI":"https:\/\/github.com\/woocommerce\/woocommerce-admin","Version":"0.18.0","Description":"A new JavaScript-driven interface for managing your store. The plugin includes new and improved reports, and a dashboard to monitor all the important key metrics of your site.","Author":"WooCommerce","AuthorURI":"https:\/\/woocommerce.com\/","TextDomain":"woocommerce-admin","DomainPath":"\/languages","Network":false,"Title":"WooCommerce Admin","AuthorName":"WooCommerce"},"woo-gutenberg-products-block\/woocommerce-gutenberg-products-block.php":{"WC requires at least":"3.6","WC tested up to":"3.7","Woo":"","Name":"WooCommerce Blocks","PluginURI":"https:\/\/github.com\/woocommerce\/woocommerce-gutenberg-products-block","Version":"2.4.1","Description":"WooCommerce blocks for the Gutenberg editor.","Author":"Automattic","AuthorURI":"https:\/\/woocommerce.com","TextDomain":"woo-gutenberg-products-block","DomainPath":"","Network":false,"Title":"WooCommerce Blocks","AuthorName":"Automattic"},"woocommerce-google-analytics-integration\/woocommerce-google-analytics-integration.php":{"WC requires at least":"2.1","WC tested up to":"3.7","Woo":"","Name":"WooCommerce Google Analytics Integration","PluginURI":"http:\/\/wordpress.org\/plugins\/woocommerce-google-analytics-integration\/","Version":"1.4.13","Description":"Allows Google Analytics tracking code to be inserted into WooCommerce store pages.","Author":"WooCommerce","AuthorURI":"https:\/\/woocommerce.com","TextDomain":"woocommerce-google-analytics-integration","DomainPath":"languages\/","Network":false,"Title":"WooCommerce Google Analytics Integration","AuthorName":"WooCommerce"},"woocommerce-gateway-paypal-express-checkout\/woocommerce-gateway-paypal-express-checkout.php":{"WC requires at least":"2.6","WC tested up to":"3.7","Woo":"","Name":"WooCommerce PayPal Checkout Gateway","PluginURI":"https:\/\/woocommerce.com\/products\/woocommerce-gateway-paypal-express-checkout\/","Version":"1.6.17","Description":"A payment gateway for PayPal Checkout (https:\/\/www.paypal.com\/us\/webapps\/mpp\/paypal-checkout).","Author":"WooCommerce","AuthorURI":"https:\/\/woocommerce.com","TextDomain":"woocommerce-gateway-paypal-express-checkout","DomainPath":"\/languages","Network":false,"Title":"WooCommerce PayPal Checkout Gateway","AuthorName":"WooCommerce"},"woocommerce-pdf-invoices-packing-slips\/woocommerce-pdf-invoices-packingslips.php":{"WC requires at least":"2.2.0","WC tested up to":"3.7.0","Woo":"","Name":"WooCommerce PDF Invoices & Packing Slips","PluginURI":"http:\/\/www.wpovernight.com","Version":"2.3.3","Description":"Create, print & email PDF invoices & packing slips for WooCommerce orders.","Author":"Ewout Fernhout","AuthorURI":"http:\/\/www.wpovernight.com","TextDomain":"woocommerce-pdf-invoices-packing-slips","DomainPath":"","Network":false,"Title":"WooCommerce PDF Invoices & Packing Slips","AuthorName":"Ewout Fernhout"},"woocommerce-services\/woocommerce-services.php":{"WC requires at least":"3.0.0","WC tested up to":"3.7","Woo":"","Name":"WooCommerce Services","PluginURI":"https:\/\/woocommerce.com\/","Version":"1.21.1","Description":"Hosted services for WooCommerce: automated tax calculation, shipping label printing, and smoother payment setup.","Author":"Automattic","AuthorURI":"https:\/\/woocommerce.com\/","TextDomain":"woocommerce-services","DomainPath":"\/i18n\/languages\/","Network":false,"Title":"WooCommerce Services","AuthorName":"Automattic"},"woocommerce-gateway-stripe\/woocommerce-gateway-stripe.php":{"WC requires at least":"2.6","WC tested up to":"3.6.4","Woo":"","Name":"WooCommerce Stripe Gateway","PluginURI":"https:\/\/wordpress.org\/plugins\/woocommerce-gateway-stripe\/","Version":"4.2.3","Description":"Take credit card payments on your store using Stripe.","Author":"WooCommerce","AuthorURI":"https:\/\/woocommerce.com\/","TextDomain":"woocommerce-gateway-stripe","DomainPath":"\/languages","Network":false,"Title":"WooCommerce Stripe Gateway","AuthorName":"WooCommerce"},"wordpress-importer\/wordpress-importer.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"WordPress Importer","PluginURI":"https:\/\/wordpress.org\/plugins\/wordpress-importer\/","Version":"0.6.4","Description":"Import posts, pages, comments, custom fields, categories, tags and more from a WordPress export file.","Author":"wordpressdotorg","AuthorURI":"https:\/\/wordpress.org\/","TextDomain":"wordpress-importer","DomainPath":"","Network":false,"Title":"WordPress Importer","AuthorName":"wordpressdotorg"},"woocommerce-xml-csv-product-import\/plugin.php":{"WC requires at least":"","WC tested up to":"3.6.5","Woo":"","Name":"WP All Import - WooCommerce Add-On","PluginURI":"http:\/\/www.wpallimport.com\/woocommerce-product-import\/?utm_source=import-wooco-products-addon-free&utm_medium=wp-plugins-page&utm_campaign=upgrade-to-pro","Version":"1.4.2","Description":"An extremely easy, drag & drop importer to import WooCommerce simple products. A paid upgrade is available for premium support and support for Variable, Grouped, and External\/Affiliate products","Author":"Soflyy","AuthorURI":"","TextDomain":"woocommerce-xml-csv-product-import","DomainPath":"","Network":false,"Title":"WP All Import - WooCommerce Add-On","AuthorName":"Soflyy"},"wp-rest-api-controller\/wp-rest-api-controller.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"WP REST API Controller","PluginURI":"https:\/\/www.yikesplugins.com","Version":"2.0.3","Description":"WP REST API Controller enables a UI to toggle endpoints in the REST API.","Author":"YIKES, Inc.","AuthorURI":"https:\/\/www.yikesinc.com","TextDomain":"wp-rest-api-controller","DomainPath":"\/languages","Network":false,"Title":"WP REST API Controller","AuthorName":"YIKES, Inc."},"wpsi\/wp-website-importer.php":{"WC requires at least":"","WC tested up to":"","Woo":"","Name":"WP Site Importer","PluginURI":"https:\/\/www.wpsiteimporter.com","Version":"1.9.5.1","Description":"Allows import\/migration of website content, menus, links and images into Wordpress.","Author":"Gargate Software","AuthorURI":"mailto:\/\/support@wpsiteimporter.com","TextDomain":"wp-website-importer","DomainPath":"\/languages","Network":false,"Title":"WP Site Importer","AuthorName":"Gargate Software"}}
+Wordpress Active Plugins: ["akismet\/akismet.php","boxtal-connect\/boxtal-connect.php","builder-woocommerce\/init.php","catch-gallery\/catch-gallery.php","catch-ids\/catch-ids.php","catch-infinite-scroll\/catch-infinite-scroll.php","catch-instagram-feed-gallery-widget\/catch-instagram-feed-gallery-widget.php","catch-web-tools\/functions.php","duplicator\/duplicator.php","essential-content-types\/essential-content-types.php","essential-widgets\/essential-widgets.php","facebook-for-woocommerce\/facebook-for-woocommerce.php","hello.php","import-products\/import-products.php","jetpack\/jetpack.php","mailchimp-for-woocommerce\/mailchimp-woocommerce.php","themegrill-demo-importer\/themegrill-demo-importer.php","tinymce-advanced\/tinymce-advanced.php","to-top\/to-top.php","woo-gutenberg-products-block\/woocommerce-gutenberg-products-block.php","woocommerce-admin\/woocommerce-admin.php","woocommerce-gateway-paypal-express-checkout\/woocommerce-gateway-paypal-express-checkout.php","woocommerce-gateway-stripe\/woocommerce-gateway-stripe.php","woocommerce-google-analytics-integration\/woocommerce-google-analytics-integration.php","woocommerce-pdf-invoices-packing-slips\/woocommerce-pdf-invoices-packingslips.php","woocommerce-services\/woocommerce-services.php","woocommerce-xml-csv-product-import\/plugin.php","woocommerce\/woocommerce.php","wordpress-importer\/wordpress-importer.php","wp-rest-api-controller\/wp-rest-api-controller.php","wpsi\/wp-website-importer.php"]
+
+2019-09-04 13:34:49 TASK ID: 0 - PID: 3163 - RAM: 43.1MB - 1 post data for scrape task
+2019-09-04 13:34:49 TASK ID: 0 - PID: 3163 - RAM: 43.1MB - 1 Array
+(
+)
+
+2019-09-04 13:35:28 TASK ID: 0 - PID: 730 - RAM: 43.11MB - 1 post data for scrape task
+2019-09-04 13:35:28 TASK ID: 0 - PID: 730 - RAM: 43.11MB - 1 Array
+(
+)
+
+2019-09-04 13:49:46 TASK ID: 0 - PID: 727 - RAM: 43.19MB - 1 post data for scrape task
+2019-09-04 13:49:46 TASK ID: 0 - PID: 727 - RAM: 43.2MB - 1 Array
+(
+    [_wpnonce] => 834a75fa4a
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=scrape
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => scrape
+    [original_post_status] => auto-draft
+    [referredby] => http://store.com/wp-admin/edit.php?page=scrapes-settings&post_type=scrape&success=1
+    [_wp_original_http_referer] => http://store.com/wp-admin/edit.php?page=scrapes-settings&post_type=scrape&success=1
+    [auto_draft] => 1
+    [post_ID] => 468
+    [meta-box-order-nonce] => 0905a4138d
+    [closedpostboxesnonce] => 78655d890a
+    [original_post_title] => 
+    [post_title] => Scrapes
+    [scrape_type] => list
+    [scrape_url] => https://www.shop-pharmacie.fr/promotions/
+    [scrape_url_single] => https://www.shop-pharmacie.fr/beaute/BE03167343/uriage-bariesun-lait-soyeux-autobronzant.htm
+    [scrape_listitem] => //html/body/div[1]/section[2]/div/div/div[3]/div/div[1]/div/div[2]/div[1]/a
+    [scrape_nextpage] => //ul[contains(concat (\" \", normalize-space(@class), \" \"), \" pagination \")]//a[contains(concat (\" \", normalize-space(@class), \" \"), \" pagination-link \")]
+    [scrape_nextpage_innerhtml] => 2
+    [scrape_nextpage_type] => source
+    [scrape_post_type] => product
+    [scrape_categoryxpath_tax] => 
+    [scrape_title] => //div[1][contains(concat (\" \", normalize-space(@class), \" \"), \" container-fluid \")]/section[2][contains(concat (\" \", normalize-space(@class), \" \"), \" container product-header \")]/div[1][contains(concat (\" \", normalize-space(@class), \" \"), \" row \")]/div/h1 | //html/body/div[1]/section[2]/div[1]/div/h1
+    [scrape_template] => 
+    [scrape_content_type] => auto
+    [scrape_allowhtml] => on
+    [scrape_excerpt_type] => auto
+    [scrape_tags] => 
+    [scrape_tags_separator] => ,
+    [scrape_tags_type] => xpath
+    [scrape_featured] => //meta[@itemprop=\"image\"]/@content
+    [scrape_featured_type] => xpath
+    [scrape_custom_fields] => Array
+        (
+            [1567604597427] => Array
+                (
+                    [name] => _price
+                    [value] => //strong[contains(concat (\" \", normalize-space(@class), \" \"), \" inline-price \")]
+                    [attribute] => 
+                    [template] => 
+                )
+
+        )
+
+    [scrape_author] => 1
+    [scrape_status] => publish
+    [scrape_date_type] => runtime
+    [scrape_comment] => on
+    [scrape_unique_title] => on
+    [scrape_on_unique] => skip
+    [scrape_cron_type] => wordpress
+    [scrape_post_unlimited] => on
+    [scrape_run_unlimited] => on
+    [scrape_first_run_time] => hour_0
+    [scrape_recurrence] => scrape_1 Day
+    [scrape_stillworking] => terminate
+    [scrape_run_type] => start
+    [scrape_timeout] => 60
+    [scrape_waitpage] => 3
+    [scrape_onerror] => next
+    [publish] => Publish
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 04
+    [mm] => 09
+    [aa] => 2019
+    [hh] => 13
+    [mn] => 35
+    [ss] => 28
+    [hidden_mm] => 09
+    [cur_mm] => 09
+    [hidden_jj] => 04
+    [cur_jj] => 04
+    [hidden_aa] => 2019
+    [cur_aa] => 2019
+    [hidden_hh] => 13
+    [cur_hh] => 13
+    [hidden_mn] => 35
+    [cur_mn] => 35
+    [original_publish] => Publier
+    [post_mime_type] => 
+    [ID] => 468
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+2019-09-04 13:49:47 TASK ID: 0 - PID: 727 - RAM: 43.25MB - 1 before handle
+2019-09-04 13:49:47 TASK ID: 0 - PID: 727 - RAM: 43.22MB - 1 before edit screen redirect
+2019-09-04 13:52:49 TASK ID: 0 - PID: 4397 - RAM: 43.1MB - 1 post data for scrape task
+2019-09-04 13:52:49 TASK ID: 0 - PID: 4397 - RAM: 43.1MB - 1 Array
+(
+)
+
+2019-09-04 13:57:15 TASK ID: 0 - PID: 4305 - RAM: 43.21MB - 1 post data for scrape task
+2019-09-04 13:57:15 TASK ID: 0 - PID: 4305 - RAM: 43.21MB - 1 Array
+(
+    [_wpnonce] => 83c52ec16a
+    [_wp_http_referer] => /wp-admin/post-new.php?post_type=scrape
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => scrape
+    [original_post_status] => auto-draft
+    [referredby] => http://store.com/wp-admin/edit.php?post_type=scrape
+    [_wp_original_http_referer] => http://store.com/wp-admin/edit.php?post_type=scrape
+    [auto_draft] => 1
+    [post_ID] => 469
+    [meta-box-order-nonce] => 0905a4138d
+    [closedpostboxesnonce] => 78655d890a
+    [original_post_title] => 
+    [post_title] => T-shirt
+    [scrape_type] => list
+    [scrape_url] => https://www.asos.fr/homme/ctas/mode-en-ligne-36/cat/?cid=19839&ctaref=shop|logomania|mw_hp_2
+    [scrape_url_single] => https://www.asos.fr/asos-design/asos-design-dark-future-t-shirt-oversize-avec-logos-ensemble/prd/12410230?clr=noir&colourWayId=16444748&SearchQuery=&cid=19839
+    [scrape_listitem] => //html/body/main/div/div/div/div[2]/div/div[1]/section/article[1]/a
+    [scrape_nextpage] => //div[contains(concat (\" \", normalize-space(@class), \" \"), \" zCgWNEA \")]//a[contains(concat (\" \", normalize-space(@class), \" \"), \" _2HG66Ah \")]
+    [scrape_nextpage_innerhtml] => Charger plus
+    [scrape_nextpage_type] => source
+    [scrape_post_type] => post
+    [scrape_categoryxpath_tax] => 
+    [scrape_title] => //div[@id=\"aside-content\"]/div[1][contains(concat (\" \", normalize-space(@class), \" \"), \" product-hero \")]/h1 | //html/body/main/div/section[1]/div/div[2]/div[1]/h1
+    [scrape_template] => 
+    [scrape_content_type] => auto
+    [scrape_allowhtml] => on
+    [scrape_excerpt_type] => auto
+    [scrape_tags] => 
+    [scrape_tags_separator] => 
+    [scrape_tags_type] => xpath
+    [scrape_featured] => //div[@id=\"gallery-content\"]/div[contains(concat (\" \", normalize-space(@class), \" \"), \" product-gallery \")]/div[1][contains(concat (\" \", normalize-space(@class), \" \"), \" product-gallery-static \")]/img/@src | //html/body/main/div/section[1]/div/div[1]/div/div[1]/img/@src
+    [scrape_featured_type] => xpath
+    [scrape_author] => 1
+    [scrape_status] => publish
+    [scrape_date_type] => runtime
+    [scrape_comment] => on
+    [scrape_unique_title] => on
+    [scrape_on_unique] => skip
+    [scrape_cron_type] => wordpress
+    [scrape_post_limit] => 5
+    [scrape_run_limit] => 2
+    [scrape_first_run_time] => hour_0
+    [scrape_recurrence] => scrape_5 Minutes
+    [scrape_stillworking] => terminate
+    [scrape_run_type] => start
+    [scrape_timeout] => 60
+    [scrape_waitpage] => 2
+    [scrape_onerror] => next
+    [publish] => Publish
+    [hidden_post_status] => draft
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 04
+    [mm] => 09
+    [aa] => 2019
+    [hh] => 13
+    [mn] => 52
+    [ss] => 49
+    [hidden_mm] => 09
+    [cur_mm] => 09
+    [hidden_jj] => 04
+    [cur_jj] => 04
+    [hidden_aa] => 2019
+    [cur_aa] => 2019
+    [hidden_hh] => 13
+    [cur_hh] => 13
+    [hidden_mn] => 52
+    [cur_mn] => 52
+    [original_publish] => Publier
+    [post_mime_type] => 
+    [ID] => 469
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+2019-09-04 13:57:15 TASK ID: 0 - PID: 4305 - RAM: 43.27MB - 1 before handle
+2019-09-04 13:57:15 TASK ID: 0 - PID: 4305 - RAM: 43.27MB - 1 before edit screen redirect
+2019-09-04 13:59:48 TASK ID: 0 - PID: 4317 - RAM: 43.21MB - 1 post data for scrape task
+2019-09-04 13:59:48 TASK ID: 0 - PID: 4317 - RAM: 43.21MB - 1 Array
+(
+    [_wpnonce] => 83c52ec16a
+    [_wp_http_referer] => /wp-admin/post.php?post=469&action=edit
+    [user_ID] => 1
+    [action] => editpost
+    [originalaction] => editpost
+    [post_author] => 1
+    [post_type] => scrape
+    [original_post_status] => publish
+    [referredby] => http://store.com/wp-admin/edit.php?post_type=scrape
+    [_wp_original_http_referer] => http://store.com/wp-admin/edit.php?post_type=scrape
+    [post_ID] => 469
+    [meta-box-order-nonce] => 0905a4138d
+    [closedpostboxesnonce] => 78655d890a
+    [original_post_title] => T-shirt
+    [post_title] => T-shirt
+    [scrape_type] => list
+    [scrape_url] => https://www.asos.fr/homme/ctas/mode-en-ligne-36/cat/?cid=19839&ctaref=shop|logomania|mw_hp_2
+    [scrape_url_single] => https://www.asos.fr/asos-design/asos-design-dark-future-t-shirt-oversize-avec-logos-ensemble/prd/12410230?clr=noir&colourWayId=16444748&SearchQuery=&cid=19839
+    [scrape_listitem] => //html/body/main/div/div/div/div[2]/div/div[1]/section/article[1]/a
+    [scrape_nextpage] => //div[contains(concat (\" \", normalize-space(@class), \" \"), \" zCgWNEA \")]//a[contains(concat (\" \", normalize-space(@class), \" \"), \" _2HG66Ah \")]
+    [scrape_nextpage_innerhtml] => Charger plus
+    [scrape_nextpage_type] => source
+    [scrape_post_type] => product
+    [scrape_categoryxpath_tax] => 
+    [scrape_category] => Array
+        (
+            [0] => 20
+        )
+
+    [scrape_title] => //div[@id=\"aside-content\"]/div[1][contains(concat (\" \", normalize-space(@class), \" \"), \" product-hero \")]/h1 | //html/body/main/div/section[1]/div/div[2]/div[1]/h1
+    [scrape_template] => 
+    [scrape_content_type] => auto
+    [scrape_allowhtml] => on
+    [scrape_excerpt_type] => auto
+    [scrape_tags] => 
+    [scrape_tags_separator] => 
+    [scrape_tags_regex_status] => on
+    [scrape_tags_type] => xpath
+    [scrape_featured] => //div[@id=\"gallery-content\"]/div[contains(concat (\" \", normalize-space(@class), \" \"), \" product-gallery \")]/div[1][contains(concat (\" \", normalize-space(@class), \" \"), \" product-gallery-static \")]/img/@src | //html/body/main/div/section[1]/div/div[1]/div/div[1]/img/@src
+    [scrape_featured_type] => xpath
+    [scrape_author] => 1
+    [scrape_status] => publish
+    [scrape_date_type] => runtime
+    [scrape_comment] => on
+    [scrape_unique_title] => on
+    [scrape_on_unique] => skip
+    [scrape_cron_type] => wordpress
+    [scrape_post_limit] => 5
+    [scrape_run_limit] => 2
+    [scrape_first_run_time] => hour_0
+    [scrape_recurrence] => scrape_5 Minutes
+    [scrape_stillworking] => terminate
+    [scrape_run_type] => start
+    [scrape_timeout] => 60
+    [scrape_waitpage] => 2
+    [scrape_onerror] => next
+    [save] => Update
+    [hidden_post_status] => publish
+    [post_status] => publish
+    [hidden_post_password] => 
+    [hidden_post_visibility] => public
+    [visibility] => public
+    [post_password] => 
+    [jj] => 04
+    [mm] => 09
+    [aa] => 2019
+    [hh] => 13
+    [mn] => 57
+    [ss] => 15
+    [hidden_mm] => 09
+    [cur_mm] => 09
+    [hidden_jj] => 04
+    [cur_jj] => 04
+    [hidden_aa] => 2019
+    [cur_aa] => 2019
+    [hidden_hh] => 13
+    [cur_hh] => 13
+    [hidden_mn] => 57
+    [cur_mn] => 58
+    [original_publish] => Mettre à jour
+    [post_mime_type] => 
+    [ID] => 469
+    [comment_status] => closed
+    [ping_status] => closed
+)
+
+2019-09-04 13:59:49 TASK ID: 0 - PID: 4317 - RAM: 43.3MB - 1 before handle
+2019-09-04 13:59:49 TASK ID: 0 - PID: 4317 - RAM: 43.3MB - 1 before edit screen redirect

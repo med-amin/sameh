@@ -1,0 +1,4 @@
+2019-09-02T14:11:11+00:00 CRITICAL require_once(): Failed opening required 'class-wc-api-client.php' (include_path='.:/usr/share/php') dans /var/www/html/index.php à la ligne 22
+
+2019-09-02T14:13:57+00:00 CRITICAL require_once(): Failed opening required 'class-wc-api-client.php' (include_path='.:/usr/share/php') dans /var/www/html/index.php à la ligne 22
+
